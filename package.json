@@ -1,0 +1,14 @@
+{
+  "name": "gdgsettat",
+  "version": "1.0.0",
+  "description": "gdg settat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.1.0"
+  }
+}
